@@ -1,0 +1,339 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.WebAPI\\PersonClientService.WebAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Application\\PersonClientService.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Application\\PersonClientService.Application.csproj",
+        "projectName": "PersonClientService.Application",
+        "projectPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Application\\PersonClientService.Application.csproj",
+        "packagesPath": "C:\\Users\\renzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Core\\PersonClientService.Core.csproj": {
+                "projectPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Core\\PersonClientService.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "MediatR.Extensions.FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Core\\PersonClientService.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Core\\PersonClientService.Core.csproj",
+        "projectName": "PersonClientService.Core",
+        "projectPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Core\\PersonClientService.Core.csproj",
+        "packagesPath": "C:\\Users\\renzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Infrastructure\\PersonClientService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Infrastructure\\PersonClientService.Infrastructure.csproj",
+        "projectName": "PersonClientService.Infrastructure",
+        "projectPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Infrastructure\\PersonClientService.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\renzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Application\\PersonClientService.Application.csproj": {
+                "projectPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Application\\PersonClientService.Application.csproj"
+              },
+              "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Core\\PersonClientService.Core.csproj": {
+                "projectPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Core\\PersonClientService.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.WebAPI\\PersonClientService.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.WebAPI\\PersonClientService.WebAPI.csproj",
+        "projectName": "PersonClientService.WebAPI",
+        "projectPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.WebAPI\\PersonClientService.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\renzo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\renzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Application\\PersonClientService.Application.csproj": {
+                "projectPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Application\\PersonClientService.Application.csproj"
+              },
+              "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Infrastructure\\PersonClientService.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\PersonClientService.Infrastructure\\PersonClientService.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

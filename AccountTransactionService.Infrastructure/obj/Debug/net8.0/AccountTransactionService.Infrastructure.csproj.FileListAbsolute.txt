@@ -1,0 +1,17 @@
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\bin\Debug\net8.0\AccountTransactionService.Infrastructure.deps.json
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\bin\Debug\net8.0\AccountTransactionService.Infrastructure.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\bin\Debug\net8.0\AccountTransactionService.Infrastructure.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\bin\Debug\net8.0\AccountTransactionService.Application.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\bin\Debug\net8.0\AccountTransactionService.Core.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\bin\Debug\net8.0\AccountTransactionService.Application.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\bin\Debug\net8.0\AccountTransactionService.Core.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\obj\Debug\net8.0\AccountTransactionService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\obj\Debug\net8.0\AccountTransactionService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\obj\Debug\net8.0\AccountTransactionService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\obj\Debug\net8.0\AccountTransactionService.Infrastructure.AssemblyInfo.cs
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\obj\Debug\net8.0\AccountTransactionService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\obj\Debug\net8.0\AccountT.9CB5CF34.Up2Date
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\obj\Debug\net8.0\AccountTransactionService.Infrastructure.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\obj\Debug\net8.0\refint\AccountTransactionService.Infrastructure.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\obj\Debug\net8.0\AccountTransactionService.Infrastructure.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Infrastructure\obj\Debug\net8.0\ref\AccountTransactionService.Infrastructure.dll

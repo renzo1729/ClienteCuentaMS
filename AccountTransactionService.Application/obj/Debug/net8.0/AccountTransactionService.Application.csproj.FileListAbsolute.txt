@@ -1,0 +1,15 @@
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\bin\Debug\net8.0\AccountTransactionService.Application.deps.json
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\bin\Debug\net8.0\AccountTransactionService.Application.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\bin\Debug\net8.0\AccountTransactionService.Application.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\bin\Debug\net8.0\AccountTransactionService.Core.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\bin\Debug\net8.0\AccountTransactionService.Core.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\obj\Debug\net8.0\AccountTransactionService.Application.csproj.AssemblyReference.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\obj\Debug\net8.0\AccountTransactionService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\obj\Debug\net8.0\AccountTransactionService.Application.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\obj\Debug\net8.0\AccountTransactionService.Application.AssemblyInfo.cs
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\obj\Debug\net8.0\AccountTransactionService.Application.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\obj\Debug\net8.0\AccountT.3B2F208D.Up2Date
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\obj\Debug\net8.0\AccountTransactionService.Application.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\obj\Debug\net8.0\refint\AccountTransactionService.Application.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\obj\Debug\net8.0\AccountTransactionService.Application.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Application\obj\Debug\net8.0\ref\AccountTransactionService.Application.dll

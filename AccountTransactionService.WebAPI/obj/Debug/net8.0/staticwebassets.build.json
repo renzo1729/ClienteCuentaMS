@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ck6n9PoBRjHkon1TM0jcv0XscjUqXTYGrCyujn8EtCY=",
+  "Source": "AccountTransactionService.WebAPI",
+  "BasePath": "_content/AccountTransactionService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

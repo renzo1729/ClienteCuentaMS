@@ -1,0 +1,6 @@
+{
+  "AccountTransactionService.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\AccountTransactionService.Application",
+  "AccountTransactionService.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\AccountTransactionService.Core",
+  "AccountTransactionService.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\AccountTransactionService.Infrastructure",
+  "AccountTransactionService.WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\renzo\\source\\repos\\PruebaTecnicaDevsu\\AccountTransactionService.WebAPI"
+}

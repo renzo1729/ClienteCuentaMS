@@ -1,0 +1,15 @@
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\bin\Release\net8.0\PersonClientService.Application.deps.json
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\bin\Release\net8.0\PersonClientService.Application.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\bin\Release\net8.0\PersonClientService.Application.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\bin\Release\net8.0\PersonClientService.Core.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\bin\Release\net8.0\PersonClientService.Core.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\obj\Release\net8.0\PersonClientService.Application.csproj.AssemblyReference.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\obj\Release\net8.0\PersonClientService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\obj\Release\net8.0\PersonClientService.Application.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\obj\Release\net8.0\PersonClientService.Application.AssemblyInfo.cs
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\obj\Release\net8.0\PersonClientService.Application.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\obj\Release\net8.0\PersonCl.C25B455E.Up2Date
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\obj\Release\net8.0\PersonClientService.Application.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\obj\Release\net8.0\refint\PersonClientService.Application.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\obj\Release\net8.0\PersonClientService.Application.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Application\obj\Release\net8.0\ref\PersonClientService.Application.dll

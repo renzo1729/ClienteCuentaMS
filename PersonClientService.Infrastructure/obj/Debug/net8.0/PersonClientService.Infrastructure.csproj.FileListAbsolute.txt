@@ -1,0 +1,17 @@
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\bin\Debug\net8.0\PersonClientService.Infrastructure.deps.json
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\bin\Debug\net8.0\PersonClientService.Infrastructure.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\bin\Debug\net8.0\PersonClientService.Infrastructure.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\bin\Debug\net8.0\PersonClientService.Application.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\bin\Debug\net8.0\PersonClientService.Core.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\bin\Debug\net8.0\PersonClientService.Application.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\bin\Debug\net8.0\PersonClientService.Core.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\obj\Debug\net8.0\PersonClientService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\obj\Debug\net8.0\PersonClientService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\obj\Debug\net8.0\PersonClientService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\obj\Debug\net8.0\PersonClientService.Infrastructure.AssemblyInfo.cs
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\obj\Debug\net8.0\PersonClientService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\obj\Debug\net8.0\PersonCl.67297CBF.Up2Date
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\obj\Debug\net8.0\PersonClientService.Infrastructure.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\obj\Debug\net8.0\refint\PersonClientService.Infrastructure.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\obj\Debug\net8.0\PersonClientService.Infrastructure.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Infrastructure\obj\Debug\net8.0\ref\PersonClientService.Infrastructure.dll

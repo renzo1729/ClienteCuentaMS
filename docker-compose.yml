@@ -1,0 +1,57 @@
+services:
+  sqlserver:
+    build:
+      context: ./
+      dockerfile: Dockerfile.sqlserver
+    container_name: sqlserver
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "Renzo1129@1129"
+    ports:
+      - "1433:1433"
+    networks:
+      - app-network
+    volumes:
+    - ./BaseDatos.sql:/BaseDatos.sql
+ 
+  clientservice:
+    image: clientservice:latest
+    build:
+      context: ./
+      dockerfile: PersonClientService.WebAPI/Dockerfile
+    container_name: clientservice
+    ports:
+      - "5001:5001"
+    networks:
+      - app-network
+    depends_on:
+      - sqlserver
+
+  accountservice:
+    image: accountservice:latest
+    build:
+      context: ./
+      dockerfile: AccountTransactionService.WebAPI/Dockerfile
+    container_name: accountservice
+    ports:
+      - "5002:5002"
+    networks:
+      - app-network
+    depends_on:
+      - sqlserver
+  integration-tests:
+    image: integration-tests:latest
+    build:
+      context: ./
+      dockerfile: AccountTransactionService.IntegrationTests/Dockerfile
+    container_name: integrationtests
+    networks:
+      - app-network
+    depends_on:
+      - clientservice
+      - accountservice
+    command: ["dotnet", "test", "AccountTransactionService.IntegrationTests/AccountTransactionService.IntegrationTests.csproj", "--configuration", "Release", "--logger", "trx"]
+
+networks:
+  app-network:
+    driver: bridge

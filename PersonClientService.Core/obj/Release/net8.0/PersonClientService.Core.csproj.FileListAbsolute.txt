@@ -1,0 +1,11 @@
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\bin\Release\net8.0\PersonClientService.Core.deps.json
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\bin\Release\net8.0\PersonClientService.Core.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\bin\Release\net8.0\PersonClientService.Core.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\obj\Release\net8.0\PersonClientService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\obj\Release\net8.0\PersonClientService.Core.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\obj\Release\net8.0\PersonClientService.Core.AssemblyInfo.cs
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\obj\Release\net8.0\PersonClientService.Core.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\obj\Release\net8.0\PersonClientService.Core.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\obj\Release\net8.0\refint\PersonClientService.Core.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\obj\Release\net8.0\PersonClientService.Core.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\PersonClientService.Core\obj\Release\net8.0\ref\PersonClientService.Core.dll

@@ -1,0 +1,11 @@
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\bin\Debug\net8.0\AccountTransactionService.Core.deps.json
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\bin\Debug\net8.0\AccountTransactionService.Core.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\bin\Debug\net8.0\AccountTransactionService.Core.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\obj\Debug\net8.0\AccountTransactionService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\obj\Debug\net8.0\AccountTransactionService.Core.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\obj\Debug\net8.0\AccountTransactionService.Core.AssemblyInfo.cs
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\obj\Debug\net8.0\AccountTransactionService.Core.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\obj\Debug\net8.0\AccountTransactionService.Core.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\obj\Debug\net8.0\refint\AccountTransactionService.Core.dll
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\obj\Debug\net8.0\AccountTransactionService.Core.pdb
+C:\Users\renzo\source\repos\PruebaTecnicaDevsu\AccountTransactionService.Core\obj\Debug\net8.0\ref\AccountTransactionService.Core.dll

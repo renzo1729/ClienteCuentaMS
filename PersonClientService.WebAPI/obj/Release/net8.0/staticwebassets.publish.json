@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ngUU8SZ/ANTkOavDfJZiPM4f+h/tK+wpcaIf425F4X8=",
+  "Source": "PersonClientService.WebAPI",
+  "BasePath": "_content/PersonClientService.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
